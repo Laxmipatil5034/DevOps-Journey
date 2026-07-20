@@ -1,0 +1,150 @@
+Computer fundamentals.
+Day1
+What is COMPUTER ?
+computer is programmable electronic device ,that accept the RAW DATA as a INPUT and processes it with a set of instructions to produce the result as OUTPUT.
+ father of computer : Charles babbage in 1837.
+
+2.Types of computers ?
+Analog:A computer that processes continuous data (such as temperature, speed, or voltage). It provides approximate results.
+Digital Computer: A computer that processes discrete (binary 0 and 1) data. It provides accurate results and is the most commonly used type of computer.
+Hybrid Computer: A computer that combines the features of both analog and digital computers. It processes both continuous and discrete data, offering speed and accuracy.
+
+3.what is Hardware?
+Hardware refers to the physical components of a computer, that we can see and touch.
+and , it contains circuit board,ICs,and other electronics in a computer system.
+Ex:1.Motherboard
+2.Monitor
+3.Kyeboard
+4.Mouse
+
+4.what  is software?
+Software is a collection of procedures,instructions,documentation that tells a computer exactly what to do.
+
+5.what is input device?
+An input device is a hardware device used to enter data or instructions into a computer.
+
+Examples:
+
+Keyboard
+Mouse
+Scanner
+Microphone
+Touchscreen
+
+Output Device
+
+6.What is output device?
+An output device is a hardware device used to display or produce the results processed by a computer.
+
+Examples:
+
+Monitor
+Printer
+Speaker
+Projector
+Plotter
+Headphones
+
+7.What is CPU?
+he CPU (Central Processing Unit) is the brain of the computer. It processes data, executes instructions, and controls all the operations of the computer.
+
+Functions of CPU :
+Processes data
+Executes program instructions
+Performs calculations
+Controls all computer operations
+Main Parts of CPU
+CPU = Brain of the Computer
+ALU=Calculates
+CU = Controls
+Memory Unit = Stores temporary data
+
+8.What is MEMORY?
+Memory is a computer component used to store data, instructions, and information so that the CPU can process them.
+Types of Memory
+
+1. Primary Memory (Main Memory)
+Directly accessed by the CPU.
+Faster than secondary memory.
+Used to store data and programs currently in use.
+Examples:
+
+RAM (Random Access Memory): Temporary (volatile) memory. Data is lost when the computer is turned off.
+ROM (Read Only Memory): Permanent (non-volatile) memory. Stores startup instructions (firmware).
+
+2. Secondary Memory (Storage Memory)
+Stores data permanently.
+Has a larger storage capacity than primary memory.
+Slower than primary memory.
+
+Examples:
+
+Hard Disk (HDD)
+Solid State Drive (SSD)
+USB Flash Drive (Pen Drive)
+CD/DVD
+Memory Card
+
+9. HDD and SSD ?
+
+## HDD (Hard Disk Drive)
+
+**Definition:**
+An **HDD (Hard Disk Drive)** is a **secondary storage device** that stores data permanently using **rotating magnetic disks (platters)**.
+
+### Features
+
+* Stores data permanently (Non-volatile)
+* Large storage capacity
+* Slower than SSD
+* Less expensive
+* Contains moving mechanical parts
+
+**Examples:** 500 GB HDD, 1 TB HDD, 2 TB HDD
+
+---
+
+10. SSD (Solid State Drive)
+
+**Definition:**
+An **SSD (Solid State Drive)** is a **secondary storage device** that stores data permanently using **flash memory chips**.
+
+### Features
+
+* Stores data permanently (Non-volatile)
+* Much faster than HDD
+* More durable (no moving parts)
+* Uses less power
+* More expensive than HDD
+
+**Examples:** 256 GB SSD, 512 GB SSD, 1 TB SSD
+
+11. Operating System (OS)
+
+An Operating System (OS)** is **system software** that acts as an **interface between the user and the computer hardware**. It manages the computer's resources and allows users to run applications.
+
+## Functions of an Operating System
+
+* Manages the CPU and processes.
+* Manages memory (RAM).
+* Manages files and folders.
+* Controls input and output devices.
+* Provides security and user access.
+* Runs application software.
+
+## Types of Operating Systems
+
+1. **Single-User Operating System** – Supports one user at a time.
+2. **Multi-User Operating System** – Supports multiple users simultaneously.
+3. **Multitasking Operating System** – Runs multiple programs at the same time.
+4. **Real-Time Operating System (RTOS)** – Responds to tasks within a fixed time.
+
+## Examples of Operating Systems
+
+* Microsoft Windows
+* Linux
+* macOS
+* Android
+* iOS
+* Ubuntu
+
