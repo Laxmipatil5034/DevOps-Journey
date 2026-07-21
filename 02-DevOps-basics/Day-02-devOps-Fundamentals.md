@@ -23,3 +23,8 @@ Code → Build → Test → Deploy
 
 ## DevOps Lifecycle
 Plan → Develop → Build → Test → Release → Deploy → Operate → Monitor
+
+## Key Takeaways:
+- DevOps improves collaboration between Dev and Ops teams.
+- CI/CD automates software delivery.
+- DevOps Lifecycle consists of Plan, Develop, Build, Test, Release, Deploy, Operate, and Monitor.
