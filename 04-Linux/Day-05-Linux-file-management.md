@@ -99,15 +99,17 @@ Today I gained hands-on experience with Linux file and directory management comm
 - Shell Commands
 - DevOps Basics
 
-## Practice screenshots
-[Day 5 Linux Practice](day5-linux-practice1.png)
-[Day 5 Linux Practice](day5-linux-practice2.png)
+## Practice Screenshots
+
+![Day 5 Linux Practice 1](day5-linux-practice1.png)
+
+![Day 5 Linux Practice 2](day5-linux-practice2.png)
+
 ###  Status
 
 ✅ Day 5 Completed Successfully
 
 #90DaysOfDevOps #Linux #DevOps #GitHub #OpenSource #LearningInPublic
 
-Practice screenshots
-[Day 5 Linux Practice](day5-linux-practice.png)
-![Day 5 Linux Practice](day5-linux-practice.png)
+
+
