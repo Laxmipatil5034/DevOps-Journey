@@ -104,3 +104,7 @@ Today I gained hands-on experience with Linux file and directory management comm
 ✅ Day 5 Completed Successfully
 
 #90DaysOfDevOps #Linux #DevOps #GitHub #OpenSource #LearningInPublic
+
+Practice screenshots
+[Day 5 Linux Practice](day5-linux-practice.png)
+![Day 5 Linux Practice](day5-linux-practice.png)
