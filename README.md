@@ -27,6 +27,7 @@ By the end of 90 days, you will have:
 * A GitHub profile that clearly shows consistency
 * Confidence to handle DevOps interviews and production systems
 
+
 ## 🧠 Who Is This For?
 
 This challenge is ideal for:
@@ -38,6 +39,7 @@ This challenge is ideal for:
   
 No prior DevOps experience is required.
 **Commitment is mandatory.**
+
 
 ## 📁 Repository Structure
 
@@ -56,6 +58,7 @@ DevOps-Journey/
 └── day-90/
     └── README.md
 
+
 ## 📅 How the Challenge Works
 
 * One day = one task
@@ -65,6 +68,7 @@ DevOps-Journey/
 * Daily commits are encouraged
   
 Even **30–60 minutes per day** is enough if done honestly.
+
 
 ## 🛠 What You Will Learn
 
@@ -95,6 +99,7 @@ Even **30–60 minutes per day** is enough if done honestly.
 📂 Professional GitHub Portfolio Building
 
 
+
 ## 📦 How to Participate
 
 1. 🍴 Fork this repository.
@@ -105,6 +110,7 @@ Even **30–60 minutes per day** is enough if done honestly.
 6. 📅 Repeat every day until Day 90.
 7. 🚀 Share your progress on LinkedIn using
 ## #90DaysOfDevOps.
+
 
 ## 🌍 Learn in Public
 #90DaysOfDevOps
@@ -117,6 +123,7 @@ Even **30–60 minutes per day** is enough if done honestly.
 #GitHub
 #CloudComputing
 #OpenToWork
+
 
 ## 🎉 Final Note
 
@@ -131,6 +138,7 @@ If you find this repository helpful:
 - 🤝 Connect with me and let's learn together
 
 > "Consistency beats perfection. Small progress every day leads to big results."
+
 
 ## 🌐 Connect With Me
 
