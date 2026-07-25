@@ -5,6 +5,16 @@
 Today, I practiced essential Linux terminal operations including soft/hard links, text manipulation (cut, tee, sort, diff), file counts (wc), and 
 standard navigation commands directly on AWS CloudShell.
 
+## Commands Learned
+
+* ln
+* cut
+* tee
+* sort
+* diff
+* wc
+* vi
+
 ## Commands Practiced
 
 **ln (Soft & Hard Links)**: Created and tested symbolic shortcuts (ln -s) and direct physical links (ln).
