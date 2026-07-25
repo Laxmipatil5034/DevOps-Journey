@@ -52,3 +52,18 @@ vi hello.txt
 Soft Links (-s) point to the file path/shortcut; breaking the original file invalidates the soft link.
 Hard Links point to the underlying inode/data directly, preserving access even if the original target path changes.
 Using piping (|) combined with tools like tee, cut, and diff allows rapid log parsing and data inspection in production environments.
+
+## Practice 
+![Day 6 Screenshot 1](day-06-linux1.png.jpeg)
+
+### Screenshot 2: Creating Links
+![Day 6 Screenshot 2](day-06-linux2.png.jpeg)
+
+### Screenshot 3: Text Processing Commands
+![Day 6 Screenshot 3](day-06-linux3.png.jpeg)
+
+### Screenshot 4: File Comparisons & Counts
+![Day 6 Screenshot 4](day--06-linux4.png.jpeg)
+
+### Screenshot 5: Terminal Output
+![Day 6 Screenshot 5](day-06-linux5.png.jpeg)
