@@ -1,1 +1,48 @@
 ## Day-07-Linux Process management and System Monitoring
+## AWS EC2 (Ubuntu 26.04 LTS)
+AWS CloudShell
+SSH Connection
+📚 Commands Practiced
+Process Management
+ps
+top
+kill
+fuser
+Disk Usage
+df
+df -h
+Memory Usage
+free
+free -h
+vmstat
+vmstat -a
+Background Processes
+nohup free -h
+cat nohup.out
+head nohup.out
+head -n 4 nohup.out
+tail -n 3 nohup.out
+📖 What I Learned
+Used ps to view running processes.
+Used top to monitor CPU and memory usage in real time.
+Checked disk usage using df and df -h.
+Viewed RAM and swap memory using free and free -h.
+Used vmstat to monitor system performance.
+Learned how nohup keeps a command running after the terminal is closed.
+Viewed command output stored in nohup.out using cat, head, and tail.
+Explored kill and fuser commands for process management.
+🚀 Key Takeaways
+Linux provides powerful tools to monitor system performance.
+Process management is an essential DevOps skill.
+Understanding CPU, memory, disk, and background jobs helps in troubleshooting servers.
+📸 Practice Screenshots
+Connected to AWS EC2
+Process Monitoring (ps, top)
+Disk Usage (df, df -h)
+Memory Usage (free, free -h)
+System Statistics (vmstat)
+Background Process (nohup)
+Output Verification (head, tail)
+✅ Day 7 Status
+Completed Successfully ✅
+#90DaysOfDevOps | Day 7 🚀
