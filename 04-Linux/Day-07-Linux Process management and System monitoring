@@ -1,12 +1,12 @@
-# Day 07 – Linux Process Management & System Monitoring
+# **Day 07 – Linux Process Management & System Monitoring**
 
-## 🎯 Objective
+##  Objective
 
 Today, I learned Linux process management and system monitoring commands on an AWS EC2 Ubuntu instance using AWS CloudShell.
 
 ---
 
-## 🖥️ Environment
+##  Environment
 
 - AWS EC2 (Ubuntu 26.04 LTS)
 - AWS CloudShell
