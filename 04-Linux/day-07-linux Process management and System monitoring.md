@@ -67,6 +67,20 @@ tail -n 3 nohup.out
 - Improved Linux troubleshooting skills.
 
 ## Practice
+### Screenshot 1
+![Day 7 Linux Practice 1](day-07-Linux1.jpeg)
+
+### Screenshot 2
+![Day 7 Linux Practice 2](day-7-Linux2.jpeg)
+
+### Screenshot 3
+![Day 7 Linux Practice 3](day-7-Linux3.jpeg)
+
+### Screenshot 4
+![Day 7 Linux Practice 4](day-7-Linux4.jpeg)
+
+### Screenshot 5
+![Day 7 Linux Practice 5](day-7-Linux5.jpeg)
 
 
 ## ✅ Status
