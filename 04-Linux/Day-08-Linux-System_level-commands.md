@@ -100,6 +100,10 @@ Gained hands-on experience with AWS EC2.
 Strengthened Linux fundamentals for DevOps.
 
 ## Practice Screenshots
+![Day 08 Linux Command 1](day-08-Linux1.jpeg)
 
+![Day 08 Linux Command 2](day-08-Linux2.jpeg)
+
+![Day 08 Linux Command 3](day-08-Linux3.jpeg)
 
 ## #DevOps #Linux #AWS #EC2 #GitHub #LearningInPublic #90DaysOfDevOps #BTech2026
