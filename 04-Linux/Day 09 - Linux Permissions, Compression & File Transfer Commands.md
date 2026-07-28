@@ -191,4 +191,20 @@ rsync -av Documents/ Backup/
 - Secure file transfer using SCP.
 - Synchronizing files using rsync.
 
+  ## Peactice
+
+### Screenshot 1
+![Linux Practice 1](day-09-Linux1.jpeg)
+
+### Screenshot 2
+![Linux Practice 2](day-%2009-Linux2.jpeg)
+
+### Screenshot 3
+![Linux Practice 3](day-09-Linux3.jpeg)
+
+### Screenshot 4
+![Linux Practice 4](day-09-Linux4.jpeg)
+
+
+
 ##  Follow my *90-Day DevOps Journey* as I learn DevOps from beginner to advanced by documenting my daily progress.
