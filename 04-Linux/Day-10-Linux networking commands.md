@@ -183,4 +183,18 @@ Command not installed.
 * Viewed ARP cache.
 * Practiced troubleshooting network issues.
 
-  
+  ## Practice Screenshots
+
+  ![day-10 linux](day-10%20linux.jpeg)
+
+![day-10 linux2](day-10%20linux2.jpeg)
+
+![day-10 llinux3](day-10%20llinux3.jpeg)
+
+![day-10 linux4](day-10%20linux4.jpeg)
+
+![day-10 linux5](day-10%20linux5.jpeg)
+
+![day-10 linux6](day-10%20linux6.jpeg)
+
+![day-10 linux7](day-10%20linux7.jpeg)
