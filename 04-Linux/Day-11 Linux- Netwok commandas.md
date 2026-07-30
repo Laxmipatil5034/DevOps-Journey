@@ -152,4 +152,24 @@ Extract a value
   
 # Practice Screenshots
 
+# Day 11 - Linux
 
+## Practice Screenshots
+
+### Screenshot 1
+# Day 11 - Linux
+
+## Practice Screenshots
+
+# Day 11 - Linux
+
+## Practice Screenshots
+
+### Screenshot 1
+![Day 11 Linux 1](day-11%20linux1.jpeg)
+
+### Screenshot 2
+![Day 11 Linux 2](day-11%20linux2.jpeg)
+
+### Screenshot 3
+![Day 11 Linux 3](day-11%20linux3.jpeg)
