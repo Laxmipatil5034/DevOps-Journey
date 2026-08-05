@@ -41,3 +41,17 @@ This is my first shell script
 - Understood how Bash executes shell scripts.
 - Learned to create, edit, and run shell scripts.
 - Practiced file permissions using chmod.
+
+  ## 📸 Practice Screenshots
+
+### Practice 1
+![Shell Scripting Practice 1](day-01-shell-scripting1.jpeg)
+
+### Practice 2
+![Shell Scripting Practice 2](day-01-shell-scripting2.jpeg)
+
+## 🚀 Conclusion
+Shell Scripting is a fundamental DevOps skill that helps automate repetitive tasks and improves productivity.
+
+---
+⭐ Follow my *90 Days of DevOps Journey* for more learning updates.
