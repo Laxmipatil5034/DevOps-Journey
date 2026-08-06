@@ -45,5 +45,3 @@ useradd
 ls
 cat
 
-
-
