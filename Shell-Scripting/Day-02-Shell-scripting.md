@@ -47,6 +47,3 @@ cat
 
 
 
-## Practice
-
-Shell-Scripting/day2-ss-5.jpeg
