@@ -1,0 +1,22 @@
+==========================================
+       DEVOPS SERVER HEALTH CHECK
+==========================================
+Checking git...
+✅ git is installed
+Checking docker...
+✅ docker is installed
+Checking Docker access...
+✅ Docker is working correctly
+Checking Nginx...
+✅ Nginx is installed
+✅ Nginx is running
+Checking disk usage...
+Disk usage: 46%
+✅ Disk usage is safe
+Checking memory...
+Memory usage: 42%
+✅ Memory usage is safe
+==========================================
+🎉 HEALTH CHECK PASSED
+Server is ready for deployment.
+==========================================
