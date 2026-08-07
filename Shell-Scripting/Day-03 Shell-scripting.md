@@ -50,3 +50,26 @@ Built a reusable server health monitoring script that checks system readiness be
 
 #90DaysOfDevOps #Linux #Bash #ShellScripting #AWS #Git #DevOps
 └── error_hadal.sh
+
+## practice
+
+# 📸 Project Screenshots
+
+## Screenshot 1 - Script Execution
+
+![Day 03 Shell Scripting 1](day03shellscripting1.jpg)
+
+---
+
+## Screenshot 2 - Health Check Output
+
+![Day 03 Shell Scripting 2](day03shellscripting2.jpeg)
+
+---
+
+## Screenshot 3 - Log File / Project Structure
+
+![Day 03 Shell Scripting 3](day03shellscripting3.jpeg)
+
+
+
