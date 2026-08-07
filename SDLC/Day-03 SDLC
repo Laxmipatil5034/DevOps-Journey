@@ -1,0 +1,121 @@
+## Day-03
+SDLC (Software Development Life Cycle)
+
+1.What is SDLC?
+
+SDLC (Software Development Life Cycle) is a structured process used to plan, design, develop, test, deploy, and maintain software efficiently and with high quality.
+
+It helps software teams deliver applications in a systematic, predictable, and cost-effective way.
+
+Why do we use SDLC?
+✅ To build high-quality software
+✅ To reduce development cost
+✅ To deliver projects on time
+✅ To identify bugs early
+✅ To improve team collaboration
+✅ To satisfy customer requirements
+
+2.Where is SDLC used?
+
+SDLC is used in almost every software project, such as:
+
+Web Applications
+Mobile Applications
+Banking Software
+E-commerce Platforms
+Healthcare Systems
+Cloud Applications
+Enterprise Software
+DevOps Projects
+Phases of SDLC
+
+1. Planning
+
+Plan the project before development starts.
+
+Activities
+Define project goals
+Estimate budget
+Identify risks
+Create project schedule
+Allocate resources
+Output
+Project Plan
+Timeline
+Budget
+
+2. Requirement Analysis
+
+Understand what the customer needs.
+
+Activities
+Gather requirements
+Meet stakeholders
+Analyze business needs
+Create requirement documents
+Output
+Software Requirement Specification (SRS)
+
+3. Design
+
+Design the software architecture.
+
+Activities
+Database design
+UI/UX design
+System architecture
+API design
+Output
+High-Level Design (HLD)
+Low-Level Design (LLD)
+
+4. Development (Coding)
+
+Write the actual source code.
+
+Activities
+Develop features
+Write clean code
+Version control using Git
+Code review
+Output
+Working software
+
+5. Testing
+
+Ensure the software works correctly.
+
+Activities
+Unit Testing
+Integration Testing
+System Testing
+Performance Testing
+Security Testing
+User Acceptance Testing (UAT)
+Output
+Bug reports
+Tested software
+
+6. Deployment
+
+Release the application to users.
+
+Activities
+Deploy to servers or cloud
+Configure environments
+Monitor deployment
+Output
+Live application
+
+7. Maintenance
+
+Keep the application running smoothly after release.
+
+Activities
+Fix bugs
+Add new features
+Improve performance
+Apply security patches
+Monitor application health
+Output
+Updated software versions

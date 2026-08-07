@@ -1,0 +1,128 @@
+LINUX
+
+Day 4 – Linux Introduction Notes
+
+1. How Does the Internet Work?
+
+The internet is a network of connected computers.
+Data is transferred using TCP/IP.
+A browser sends a request, and a server sends back the response.
+
+2. What is a Server?
+A server is a computer that provides services or data to clients over a network.
+
+3. Web Server vs Application Server?
+Web Server
+Serves static content (HTML, CSS, Images).
+Examples: Apache, Nginx.
+Application Server
+Runs business logic and generates dynamic content.
+Examples: Tomcat, JBoss.
+
+4. Types of Applications?
+Standalone Applications
+Web Applications
+Mobile Applications
+
+5. Standalone Application?
+Runs on a single computer.
+Does not require the internet.
+Example: Calculator, MS Paint.
+
+6. Web Application?
+Runs in a web browser.
+Requires internet/network.
+Example: Gmail, Amazon, YouTube.
+
+7. Application Support?
+Monitoring applications.
+Resolving issues.
+Ensuring smooth operation.
+
+8. Application Maintenance?
+Fixing bugs.
+Updating software.
+Improving performance and security.
+
+Linux Basics
+
+1. What is Linux?
+Linux is a free and open-source operating system.
+Widely used in servers, cloud computing, and DevOps.
+
+2. How to Install Linux?
+Using VirtualBox.
+Dual Boot.
+WSL (Windows Subsystem for Linux).
+Cloud VM.
+
+3. Install Ubuntu on Windows?
+Download Ubuntu ISO.
+Install VirtualBox.
+Create a Virtual Machine.
+Install Ubuntu.
+
+4. Linux vs Windows?
+Linux
+Windows
+Open Source
+Proprietary
+More Secure
+Less Secure
+Free
+Paid License
+CLI + GUI
+Mostly GUI
+
+5. Remote Server Tools?
+SSH
+PuTTY
+MobaXterm
+
+6. Kernel?
+Core of the operating system.
+Manages hardware and software.
+
+7. Bootloader?
+Starts the operating system during boot.
+
+8. Shell?
+Command-line interface used to interact with Linux.
+Example: Bash.
+
+9. Desktop Environment?
+Provides the graphical user interface (GUI).
+Example: GNOME, KDE.
+
+10. Linux System Architecture?
+Hardware
+Kernel
+Shell
+Applications
+
+11. Hardware Information?
+CPU
+RAM
+Storage
+Network Devices
+
+12. Linux File System?
+Stores files in a hierarchical structure.
+Root directory is /.
+
+13. Linux vs Unix?
+Linux
+Unix
+Open Source
+Mostly Commercial
+Community Developed
+Vendor Developed
+Free
+Paid
+
+14. Process States?
+New
+Ready
+Running
+Waiting
+Terminated
